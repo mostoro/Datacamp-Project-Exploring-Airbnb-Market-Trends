@@ -1,7 +1,3 @@
-# Datacamp-Project-Exploring-Airbnb-Market-Trends
-
-
-
 # New York City Airbnb Data Analysis
 
 Welcome to the New York City Airbnb Data Analysis project! This project aims to analyze the vibrant Airbnb market in New York City, one of the world's top destinations for travelers. The high demand for temporary lodging ranges from a few nights to several months. We will explore this dynamic market by integrating data from multiple file types, providing insights into pricing, room types, and reviews.
